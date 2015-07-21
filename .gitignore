@@ -10,3 +10,6 @@ config.js
 # Ignore image file.
 content/images/*
 !content/images/README.md
+
+# Ignore log file.
+npm-debug.log
