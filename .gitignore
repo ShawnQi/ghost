@@ -8,4 +8,4 @@
 config.js
 
 # Ignore image file.
-/root/www/ghost/content/images
+content/images
