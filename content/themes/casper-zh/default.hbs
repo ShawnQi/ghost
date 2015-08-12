@@ -19,6 +19,15 @@
 
     {{! Ghost outputs important style and meta data with this tag }}
     {{ghost_head}}
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?fa0912e920d45a22844c77a33a262418";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 </head>
 <body class="{{body_class}} nav-closed">
 
@@ -30,7 +39,7 @@
 
         <footer class="site-footer clearfix">
             <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
-            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a> &amp; <a href="http://www.ghostchina.com">GhostChina</a></section>
+            <section class="poweredby"><a href="http://www.miitbeian.gov.cn/">蜀ICP备15021853号</a></section>
         </footer>
 
     </div>
