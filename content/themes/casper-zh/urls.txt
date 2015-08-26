@@ -1,9 +1,13 @@
 http://pengxian.me/
 http://pengxian.me/tag/island/
+http://pengxian.me/2015/08/23/how-to-show-love-to-your-parents/
 http://pengxian.me/2015/08/16/youth-and-memory/
 http://pengxian.me/2015/08/14/stress-people-in-big-city/
 http://pengxian.me/2015/08/12/lets-talk/
 http://pengxian.me/2015/07/19/beginning/
+http://pengxian.me/tag/rails/
+http://pengxian.me/tag/mongo/
+http://pengxian.me/2015/08/27/setup-mongoid-mongodb-environment/
 http://pengxian.me/tag/movie/
 http://pengxian.me/2015/07/22/inside-llewyn-davis/
 http://pengxian.me/tag/database/
