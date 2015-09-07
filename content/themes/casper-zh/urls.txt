@@ -5,6 +5,7 @@ http://pengxian.me/2015/08/16/youth-and-memory/
 http://pengxian.me/2015/08/14/stress-people-in-big-city/
 http://pengxian.me/2015/08/12/lets-talk/
 http://pengxian.me/2015/07/19/beginning/
+http://pengxian.me/2015/08/31/wai-mian-de-shi-jie/
 http://pengxian.me/tag/rails/
 http://pengxian.me/tag/mongo/
 http://pengxian.me/2015/08/27/setup-mongoid-mongodb-environment/
@@ -12,6 +13,8 @@ http://pengxian.me/tag/movie/
 http://pengxian.me/2015/07/22/inside-llewyn-davis/
 http://pengxian.me/tag/database/
 http://pengxian.me/tag/fan-shi/
+http://pengxian.me/2015/09/07/mysql-access-denied-for-user/
+http://pengxian.me/tag/mysql/
 http://pengxian.me/2015/07/27/database-normalization/
 http://pengxian.me/tag/ghost-tag/
 http://pengxian.me/tag/aliyun-sever/
